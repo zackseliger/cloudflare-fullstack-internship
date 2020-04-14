@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "fullstack-internship",
+  "version": "1.0.0",
+  "description": "Take home for the Cloudflare Summer 2020 fullstack internship",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zack Seliger",
+  "license": "MIT"
+}
